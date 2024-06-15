@@ -1,0 +1,2 @@
+# CodesByMohdFarhan
+practice code
