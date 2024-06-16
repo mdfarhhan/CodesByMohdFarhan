@@ -1,0 +1,51 @@
+#DATE(30 sep 2021)
+   Q1. WAP Bubble sort
+ 
+#DATE(2 oct 2021 -holiday)
+
+#DATE(5 oct 2021)
+  Q1. WAJP to sort an array of character.
+  Q2. WAJP to count no. of special Character in given array.
+  Q3. WAJP to minimize the storage uses an element of an array. 
+   
+#DATE(7 oct 2021)
+  Q1. WAJP for insertion sort.
+  Q2. WAJP for selection sort.
+  *Q3.WAJP for quick sort.
+  Q4 WAJP to  calculate the complexcity of program.(inputa)\
+  Q5.WAJP to sort an array using selection sort where array is reverse order to 
+     approximate selection sort.
+#DATE(9 oct 2021--sat)
+     { lecture-- Stack}
+
+#DATE(10 oct2021--SUNDAY)
+
+
+#Date --14/12/21
+
+ques -->create a frame to display this fiqure;
+jokerface or birthday boy face.
+Hint-->>
+awt package is called abstrat window toolkit
+gui programm based programmm banana 
+step 1--> memory me component ko lekaraao matlab gui ka object bannaao aur 
+step 2--> har ek gui ke liye frame chahiye jaha gui lagayeneghe uske bad backgrounf ko theek karenghe 
+step 3--> list of classes for rectangular claass is frameclass :user defind class banaayenghe
+
+
+///
+wajp to draw hut;
+wajp to display a bounceing bowl;
+wajp to fill a rectangle with changeing colour;
+wajp to display a text which  has all letters of different colours;
+#date16/12/21
+///
+
+wajp to create  frame that display the content of a file on 
+
+
+
+
+
+
+

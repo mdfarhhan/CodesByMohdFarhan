@@ -1,0 +1,81 @@
+//10-01-22 python
+wapp to print the name which have length is more than 4
+wapp to store and display the record of three matches
+wapp to calculate the factorial of number 
+wapp to calculate hexadecimal of a number 
+wapp to print the table of a number using format
+//12-01-22
+wapp to calculate square of a number
+wapp to convert the base of a number
+wapp to calculate the number of digits in a number
+wapp to calculate the tranpose of a number
+wapp to scale a matrix by a constant value
+wapp to sort an array using bubble sort
+wapp to sort an array using insertion sort 
+//17/1/22
+write a program remove spaces between words
+write a program to remove number from a string
+wapp to calculate factorial using recursion
+wapp to calculate number that are divisble by 16
+wapp to using keys in program
+
+
+//19-01-22
+1)write a program to change string of words into list of words
+2)write a program to find hello in a string
+3)write a program to check whether a word is of length of 4
+wapp to extract the list of value that have three digits
+wapp to add sur name in those string of list who has len 4
+
+
+//21-01-22
+wapp to filter the input such that only number should be entered
+wapp to delete an element from set
+wapp to store the record of empolyeee in a file
+wapp to display the above file
+wapp to read a content from a file an store in a list
+
+
+// 24-01-20
+wapp to store the record of 5 empolyee using the emolyee class provide function input and display
+wapp to create a class that represent a cube and provide a function input and display an
+
+
+//27-01-22
+wapp to define a property that must have the same value for every class instance (object)
+wapp to determine which class a given object belongs to 
+wapp to represent a cricketer class and provide neccessary function for input and display for cricket matches
+wapp to represent animal class and provide neccessary function for input and display of animal class
+
+
+//31-01-22
+wapp to demonstrate a self word in functions
+wapp to represent a cricketer class and provide neccessary function for input and display for cricket matches
+wapp to represent a box class box can be cube or cuboid provide nesserary function as well as provide function to calcuate volume of box
+wapp to 
+wapp to demonstrate the use of super
+//2-2-22
+
+
+
+
+
+
+///04-02-22
+Write a Python program to create all possible strings by using 'a', 'e', 'i', 'o', 'u'. Use the characters exactly once
+Write a Python program to get all possible two digit letter combinations from a digit (1 to 9) string
+wapp to calcuate the age of person in days
+wapp to check today is sunday or not
+wapp to display on which days of week a person was born
+
+
+//16-02-22
+1.wapp to handle a condition that stops inserting special character in name
+2.wapp to handle a condition that stops divison by even number 
+3.wapp to stop adding new data member in an object
+4.wapp to create a folder abc and that folder create a file xyz.txt and write content in them
+5.wapp to move a file from abc to pqr
+
+//18-02-22
+wapp to draw sin curve on python plot.
+

@@ -1,0 +1,37 @@
+username@cloudserver
+mail user157@cloudsever/enterpress
+carboncopy/enter
+subject ------
+mailbody//////
+ctrl+d
+/////
+how to open mail box
+mail //enter press
+/////////
+su username//enterpress
+username password//enterpress//
+special user -- sudo user -- administrative user//if we have a permisson for from server side//
+deluser user name --> to delete user id
+/////
+nano is editor
+/////
+vi editor is a powerful editor
+/////
+cat command ---. to display the content of file
+/////
+ls -l////with more details
+////
+cd ---> change directory
+/////
+ping ---> ip is connected with it or not
+////
+ctrl+c --> to abort a operation
+//////
+usermod --->
+
+
+
+sudo root password
+su//enterpress
+
+tracepath ---> 

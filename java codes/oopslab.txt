@@ -1,0 +1,63 @@
+Q1. WAJP to add to given number.
+Q2.  WAJP to subtract to given number.
+Q3.  WAJP to multiply to given number.
+Q4.  WAJP to division of given number.
+Q5. WAJP  find the given number is prime or not.
+Q6.  WAJP for factorial of a given number.
+Q7.  WAJP to find greatest of three number.
+Q8. WAJP to display the triangle.
+
+
+
+
+# DATE(29 sep 2021)
+   Q1. WAJP to calculate mathmatical of following function (Square,cube).
+   Q2. WAJP to create a class BOX provide a function to calculate the volume
+       & Surface area of that BOX.
+   Q3. WAJP to calculate the volume of cylinder & Surface area of cyclinder.
+
+
+
+
+
+# DATE(1 oct 2021)
+   Q1.WAJP to print the ASCII code of all capital letter and also print the captial letter
+      to ASCII code.
+
+
+# DATE( 3 oct 2021--SUNDAY-- holiday)
+
+#DATE( 4 oct 2021)
+  Q1.WAP to calculate the Factorial of a number using recursion.
+
+
+
+#DATE(6 oct 2021)
+  Q1.WAJP to find the first occurence of a number in array.
+  Q2.WAJP to find the greatest number in an array using break and continue.
+
+
+
+
+#DATE( 8 oct 2021)
+ Q1.WAJP to count number of object being created.
+ Q2.WAJP  to respresent complex no. provide function to cal the magnitude of that 
+  complex no. and arument of i.e of complex. 
+ Q3. WAJP to store the record of five employee in array .
+ Q3.WAJP to store the list of student in array.
+
+
+
+
+#DATE(11 oct 2021)
+  Q1.#Date - 11/10/21
+wap to show the information of about cars using inheritance
+wap java to demonstrate call by value and call by reference 
+wap java programm to demonstrate this keyword
+wap java programm to store record of empolyee,empolyee can be maneger or engineer
+
+
+
+#Date- 25/10/21
+
+
